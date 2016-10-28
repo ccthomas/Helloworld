@@ -8,8 +8,8 @@ and a student at OKstate!
 ## How to use Git
 Add remote branch, allows you to push your changes to GitHub
 ```
-git remote set-url origin <url_to_github_repo>
-EX: git remote set-url origin git@github.com:ChristopherThomas94/hello-world.git
+git remote add origin <url_to_github_repo>
+EX: git remote add origin git@github.com:ChristopherThomas94/hello-world.git
 ```
 Add Changes
 ```
@@ -24,6 +24,8 @@ EX: gti commit -m "Added HelloWorld java file to Repo"
 Pull from Branch, helps avoid merge conflicts
 ```
 git pull <branch-name>
+or 
+git pull origin <branch-name>
 EX: git pull master
 ```
 Finally Push to Branch
