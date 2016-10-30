@@ -23,15 +23,13 @@ EX: gti commit -m "Added HelloWorld java file to Repo"
 ```
 Pull from Branch, helps avoid merge conflicts
 ```
-git pull <branch-name>
-or 
 git pull origin <branch-name>
-EX: git pull master
+EX: git pull origin master
 ```
 Finally Push to Branch
 ```
-git push -u origin <branch-name>
-EX: git push -u origin master
+git push origin <branch-name>
+EX: git push origin master
 ```
 
 ## Formatting README
