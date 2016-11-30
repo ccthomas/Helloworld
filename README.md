@@ -23,6 +23,11 @@ java -cp class_files ProgramManager
 ```
 
 ## How to use Git
+Initialize a Github Repo
+```
+git init
+```
+
 Add remote branch, allows you to push your changes to GitHub
 ```
 git remote add origin <url_to_github_repo>
