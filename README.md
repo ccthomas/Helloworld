@@ -8,6 +8,7 @@ and a student at OKstate!
 ## How to run Code
 Compiling java files
 > class_files: Location for Class files to be save
+
 > java_files/*.java: Location of java files to be compiled
 ```
 javac -d class_files java_files/*.java
@@ -15,6 +16,7 @@ javac -d class_files java_files/*.java
 
 Running class files
 > class_files: Location of class file to run
+
 > ProgramManager: Class file to run
 ```
 java -cp class_files ProgramManager
