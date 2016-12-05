@@ -5,7 +5,7 @@ Just another repository
 My name is Christopher Thomas
 and a student at OKstate!
 
-## How to run Code
+## How to Run Java Code
 Compiling java files
 > class_files: Location for Class files to be save
 
