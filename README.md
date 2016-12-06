@@ -20,7 +20,7 @@ Add Changes
 
 ```
 git add <file_to_add>
-git add HelloWorld.java
+Ex: git add HelloWorld.java
 ```
 
 Commit Changes
