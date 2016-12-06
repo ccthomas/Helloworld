@@ -18,8 +18,8 @@ EX: git remote add origin git@github.com:ChristopherThomas94/hello-world.git
 ```
 Add Changes
 
-> git add <file_to_add>
 ```
+git add <file_to_add>
 git add HelloWorld.java
 ```
 
