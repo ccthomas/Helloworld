@@ -19,8 +19,9 @@ EX: git remote add origin git@github.com:ChristopherThomas94/hello-world.git
 Add Changes
 ```
 git add <file_to_add>
-EX: git add HelloWorld.java
 ```
+> git add HelloWorld.java
+
 Commit Changes
 ```
 git commit -m "Commit Message"
