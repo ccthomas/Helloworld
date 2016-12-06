@@ -24,7 +24,7 @@ EX: git add HelloWorld.java
 Commit Changes
 ```
 git commit -m "Commit Message"
-EX: gti commit -m "Added HelloWorld java file to Repo"
+> git commit -m "Added HelloWorld java file to Repo"
 ```
 Pull from Branch, helps avoid merge conflicts
 ```
