@@ -20,9 +20,12 @@ EX: git remote add origin git@github.com:ChristopherThomas94/hello-world.git
 ```
 
 Add Changes
+> use "git add \<path/to/file>/*" to add everything in that directory.
+
+> Only use "*" when everything you are committing should have the same message. Otherwise add and commit each file individually
 
 ```
-git add <file_to_add>
+git add <path/to/file>
 Ex: git add HelloWorld.java
 ```
 
