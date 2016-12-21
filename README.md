@@ -12,11 +12,12 @@ git init
 ```
 
 Add remote branch, allows you to push your changes to GitHub
-> Click "Close or Download" to get the git@github address
+> Click "Clone or Download" to get the git@github address
 ```
 git remote add origin <url_to_github_repo>
 EX: git remote add origin git@github.com:ChristopherThomas94/hello-world.git
 ```
+
 Add Changes
 
 ```
