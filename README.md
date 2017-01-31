@@ -34,11 +34,19 @@ Commit Changes
 git commit -m "Commit Message"
 EX: git commit -m "Added HelloWorld java file to Repo"
 ```
+
+Reset to the directory to commit specified. If no commit is listed, it will got to most recent commit.
+```
+git reset --hard <commit>
+EX: git reset --hard
+```
+
 Pull from Branch, helps avoid merge conflicts
 ```
 git pull origin <branch-name>
 EX: git pull origin master
 ```
+
 Finally Push to Branch
 ```
 git push origin <branch-name>
