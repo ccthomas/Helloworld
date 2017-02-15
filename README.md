@@ -5,6 +5,11 @@ Just another repository
 My name is Christopher Thomas
 and a student at OKstate!
 
+## Text Art to Spice of Code
+[Pokémon](misc/Pokémon.txt)
+[Portal](misc/Protal.txt)
+[Star Wars](misc/star_wars.txt)
+
 ## How to use Git
 Initialize a Github Repo
 ```
