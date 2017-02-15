@@ -6,9 +6,9 @@ My name is Christopher Thomas
 and a student at OKstate!
 
 ## Text Art to Spice of Code
-[Pokémon](misc/Pokémon.txt)
-[Portal](misc/Protal.txt)
-[Star Wars](misc/star_wars.txt)
+[Pokémon](TextArt/Pokémon.txt)<br/>
+[Portal](TextArt/Protal.txt)<br/>
+[Star Wars](TextArt/star_wars.txt)<br/>
 
 ## How to use Git
 Initialize a Github Repo
