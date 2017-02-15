@@ -5,7 +5,7 @@ Just another repository
 My name is Christopher Thomas
 and a student at OKstate!
 
-## Text Art to Spice of Code
+## Text Art to Spice up Code
 [Pokémon](TextArt/Pokémon.txt)<br/>
 [Portal](TextArt/Portal.txt)<br/>
 [Star Wars](TextArt/StarWars.txt)<br/>
