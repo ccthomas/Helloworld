@@ -7,8 +7,8 @@ and a student at OKstate!
 
 ## Text Art to Spice of Code
 [Pokémon](TextArt/Pokémon.txt)<br/>
-[Portal](TextArt/Protal.txt)<br/>
-[Star Wars](TextArt/star_wars.txt)<br/>
+[Portal](TextArt/Portal.txt)<br/>
+[Star Wars](TextArt/StarWars.txt)<br/>
 
 ## How to use Git
 Initialize a Github Repo
