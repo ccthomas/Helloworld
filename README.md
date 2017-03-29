@@ -25,9 +25,11 @@ EX: git remote add origin git@github.com:ChristopherThomas94/hello-world.git
 ```
 
 Add Changes
-> Use "git add *" to add everything in that directory.
+> Use "git add *" to add everything in that directory (This will not update deleted files)
 
 > Only use "*" when everything you are committing should have the same message. Otherwise add and commit each file individually
+
+> Use "git add -u" to update all changes (This includes deleted files)
 
 ```
 git add <path_to_file>
