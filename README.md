@@ -2,8 +2,30 @@
 Just another repository
 
 ## About Me
-My name is Christopher Thomas
-and a student at OKstate!
+My name is Christopher Thomas. I am a undergraduate at Oklahoma State University pursuing a Bachelor of Science in Computer Science with expected Graduation date of May 2018.
+
+### Accouts
+[Facebook](https://www.facebook.com/CCThomas94)<br>
+> Account is private. Must send Friend Request to view my Profile
+[GitHub](https://github.com/CCThomas)<br>
+[LinkedIn](https://www.linkedin.com/in/christopher-c-thomas/)<br>
+
+### Work History
+#### Harvard-Smithsonian Center for Astrophysics
+Job Title: Software Engineer, Fellow
+Date: Summer 2016
+##### Smithsonian Astrophysical Observatory
+* Took an old program that manages the database for the MicroObservatory’s remote controlled telescopes, and reproduced it in JavaScript.
+* Developed a JavaScript tool using D3.js to take in a text file of Exoplanet data and visualize the data.
+##### High Energy Astrophysics
+* Started the conversion process for NASA’s Chandra X-Ray Observatory Dark Image Calibration software from IDL to Python.
+
+#### Cerner Corporation
+Job Title: Software Intern
+Date: Summer 2017
+##### Configuration Management
+* Implemented a new feature to the Bedrock Framework.
+* Modified several of the Configuration Management Wizards to fix various issues.
 
 ## Text Art to Spice up Code
 [Pokémon](TextArt/Pokémon.txt)<br/>
@@ -42,7 +64,7 @@ git commit -m "Commit Message"
 EX: git commit -m "Added HelloWorld java file to Repo"
 ```
 
-Reset to the directory to commit specified. If no commit is listed, it will got to most recent commit.
+Reset to the directory to commit specified. If no commit is listed, it will go to most recent commit.
 ```
 git reset --hard <commit>
 EX: git reset --hard
