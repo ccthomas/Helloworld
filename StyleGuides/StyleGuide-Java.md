@@ -32,7 +32,7 @@ while (x < 0) {
 ```
 
 ## Comment
-Javadoc Comments before every Class, Method, Variable Declaration, or Block of Code
+Javadoc Comments before every Class, Method, Global Variable Declaration, or Block of Complicated Code
 ```
 /**
  * General Statement of what is happening
