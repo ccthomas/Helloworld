@@ -9,7 +9,7 @@ import path.to.javafile;
 
 /**
  * @author      First Last <github.com/username>
- * @version     #.#
+ * @version     #.#.#
  */
  ```
 
