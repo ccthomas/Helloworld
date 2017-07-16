@@ -60,7 +60,7 @@ public void methodName() {
 ```
 
 ## Brackets
-Always include brackets when you use for loops or if statements.
+Always include brackets when you use loops or if statements.
 ```
 if (x < y) {
     // Single line of code
