@@ -28,6 +28,10 @@ Date: Summer 2017
 * Implemented a new feature to the Bedrock Framework.
 * Modified several of the Configuration Management Wizards to fix various issues.
 
+## Style Guides
+[Java](StyleGuides/StyleGuide-Java.md)
+[Python](https://www.python.org/dev/peps/pep-0008/)
+
 ## Text Art to Spice up Code
 [Pokémon](TextArt/Pokémon.txt)<br/>
 [Portal](TextArt/Portal.txt)<br/>
