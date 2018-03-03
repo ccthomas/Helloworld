@@ -38,9 +38,30 @@ Date: Summer 2017
 [Star Wars](TextArt/StarWars.txt)<br/>
 
 ## How to use Git
+
+Setting up Git
+```
+git config --global user.name "Name"
+gti config --global user.email "email@example.com"
+```
+
+```
+
+```
+
 Initialize a Github Repo
 ```
 git init
+```
+Or Clone Existing
+```
+git clone <link>
+```
+
+Git status
+- Gives Status of branch
+```
+git status
 ```
 
 Add remote branch, allows you to push your changes to GitHub
@@ -86,6 +107,19 @@ Finally Push to Branch
 git push origin <branch-name>
 EX: git push origin master
 ```
+
+### Branching
+* Commands
+  * Creating: git branch branchName
+  * Viewing: git branch
+  * Changing: git branch checkout branchName
+* Merging with Master
+  * git checkout master
+  * git merge some-feature
+* Resolving Conflicts
+  * git diff
+    * See differences
+
 
 ## Formatting README
 You can have plain text
