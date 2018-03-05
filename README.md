@@ -108,6 +108,12 @@ git push origin <branch-name>
 EX: git push origin master
 ```
 
+Remove from Repo but not locally
+```
+git rm --cached myfile.extension
+git rm --cached -r mydirectory
+```
+
 ### Branching
 * Commands
   * Creating: git branch branchName
