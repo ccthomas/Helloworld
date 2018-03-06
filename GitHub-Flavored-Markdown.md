@@ -106,12 +106,35 @@
     - [x] this is a complete item
     - [] this is an incomplete item
     ```
-  - Example
-    - [x] @mentions, #refs, [links](), **formatting**, and <del>tag</del> supported
-    - [x] list syntax required (any unordered or ordered list supported)
-    - [x] this is a complete item
-    - [ ] this is an incomplete item
+  - [x] @mentions, #refs, [links](), **formatting**, and <del>tag</del> supported
+  - [x] list syntax required (any unordered or ordered list supported)
+  - [x] this is a complete item
+  - [ ] this is an incomplete item
 - Fenced Code Blocks
-  - 
+  - Look at 'raw' format to see syntax
+  - ```java
+    public class Test {
+      public static main(String[] args) {
+        System.out.println("Hello World!");
+      }
+    }
+    ```
 - Tables
+  - ```
+    First Header | Second Header
+    -------------|--------------
+    Content Cell 1 | Content Cell 2
+    Content Column 1 | Content Column 2
+    ```
+  - First Header | Second Header
+    -------------|--------------
+    Content Cell 1 | Content Cell 2
+    Content Column 1 | Content Column 2
 - Emoji
+  - [Full List](www.emoji-cheat-sheet.com)
+  - ```
+    GitHub Suppoers Emoji!
+    :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+    ```
+  - GitHub Suppoers Emoji!
+    :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
