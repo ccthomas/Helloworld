@@ -41,4 +41,4 @@ Date: Summer 2017
 - [Git Cheet Sheet](https://github.com/CCThomas/Helloworld/blob/master/Git-Cheat-Sheet.md)
 
 ## Hot to format a Mardown File
-- [GitHub Flavored Markdown]()
+- [GitHub Flavored Markdown](https://github.com/CCThomas/Helloworld/blob/master/GitHub-Flavored-Markdown.md)
