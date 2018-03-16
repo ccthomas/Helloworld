@@ -1,10 +1,10 @@
 # GitHub Flavored Markdown
 - [Markdown Syntax](#markdown-syntax)
-  - Headers
-  - Emphasis
-  - Lists
-  - Images
-  - Links
+  1. Headers
+  1. Emphasis
+  2. Lists
+  2. Images
+  3. Links
   - Blockquotes
   - Backslash Escapes
 - [GitHub Flavored Markdown](#github-flavored-markdown)
