@@ -4,3 +4,4 @@
     1. Open it and accept license.
 1. [Instal NVM](https://github.com/nvm-sh/nvm)
 2. [Install VSCode](https://code.visualstudio.com)
+3. [Install Mac](https://www.docker.com)
